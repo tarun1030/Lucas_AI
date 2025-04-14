@@ -134,9 +134,6 @@ The system uses different models based on the task and available resources:
 3. For specialized tasks, select the appropriate task type from the dropdown
 4. View the response in the chat window and hear the spoken reply
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
