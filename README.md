@@ -59,7 +59,7 @@ The system is adaptive to available resources:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/lucas-ai-voice-assistant.git
+   git clone https://github.com/tarun1030/Lucas_AI.git
    cd lucas-ai-voice-assistant
    ```
 
@@ -67,7 +67,6 @@ The system is adaptive to available resources:
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
    ```
 
 3. Install frontend dependencies:
